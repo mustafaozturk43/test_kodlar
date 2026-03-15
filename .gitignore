@@ -1,3 +1,4 @@
+.gitignore
 finans_env/
 __pycache__/
 *.pyc
